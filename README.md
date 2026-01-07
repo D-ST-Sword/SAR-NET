@@ -10,10 +10,6 @@ This repository contains the official implementation of SAR-NET.
 
 **The paper is currently under peer review.** Code and pre-trained models will be released upon acceptance.
 
-## Abstract
-
-High-speed optical-resolution photoacoustic microscopy (OR-PAM) using bidirectional raster scanning suffers from misalignment artifacts between odd and even columns due to differences in scanning dynamics. We propose SAR-NET, a scene-appearance disentanglement framework that models this as a domain adaptation problem rather than a traditional registration task. By separating domain-invariant anatomical structure from domain-specific acquisition parameters, our method achieves real-time correction while maintaining vascular continuity.
-
 ## Dataset
 
 The **HSVC-PAM** (High-Speed Voice-Coil PAM) dataset used in this work will be made publicly available via cloud storage upon paper acceptance.
